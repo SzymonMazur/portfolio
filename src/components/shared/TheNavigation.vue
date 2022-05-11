@@ -2,7 +2,7 @@
    <nav class="navbar navbar-expand-sm py-4 " id="test">
        
        <div class="container">
-        <router-link to="/" class="navbar-brand"><img src="@/assets/images/Nav-logo.png" alt="" id="nav-img" width="200" height="30"></router-link>
+        <router-link to="/portfolio" class="navbar-brand"><img src="@/assets/images/Nav-logo.png" alt="" id="nav-img" width="200" height="30"></router-link>
         <button class="navbar-toggler"
         type="button"
         data-bs-toggle="collapse"

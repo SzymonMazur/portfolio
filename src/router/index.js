@@ -8,6 +8,7 @@ const routes = [
     {
         name: 'LandingPage',
         path: '/',
+        alias: ["/portfolio"],
         component: LandingPage
     },
     {
