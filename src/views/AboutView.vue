@@ -70,6 +70,22 @@
             </article>
         </div>
 
+        <div class="row my-5">
+            <article class="col-12 mb-4">
+                <h2 class="mt-4 mt-md-0" style="font-weight:500">Languages</h2>
+            </article>
+
+            <article class="col-12 col-md-3">
+                <p><strong>Norwegian</strong> - Fluent</p>
+            </article>
+            <article class="col-12 col-md-3">
+                <p><strong>Polish</strong> - Fluent</p>
+            </article>
+            <article class="col-12 col-md-3">
+                <p><strong>English</strong> - Fluent</p>
+            </article>
+        </div>
+
         <div class="col-12 pt-5 my-5 text-center">
             <router-link to="/contact-view">
                 <button class="btn contact-btn">CONTACT ME</button>
