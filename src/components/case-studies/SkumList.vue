@@ -26,7 +26,7 @@ export default {
                 image: 'skum-landing-image.png',
                 titleClass: 'skum-title',
                 pClass: 'skum-des',
-                path: '/skumcase'
+                path: '/portfolio/skumcase'
             }
         ]
 

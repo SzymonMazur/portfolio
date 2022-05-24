@@ -16,8 +16,8 @@
        <div class="collapse navbar-collapse" id="navbarNav">
            <ul class="navbar-nav ms-auto mx-4">
                <li class="nav-item ms-auto active d-md-flex flex-md-row">
-                   <router-link class="nav-link" to="/about-view">About</router-link>
-                   <router-link class="nav-link" to="/contact-view">Contact</router-link>
+                   <router-link class="nav-link" to="/portfolio/about-view">About</router-link>
+                   <router-link class="nav-link" to="/portfolio/contact-view">Contact</router-link>
                </li>
            </ul>
        </div>

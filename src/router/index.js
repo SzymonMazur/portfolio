@@ -14,16 +14,19 @@ const routes = [
     {
         name: 'SkumCase',
         path: '/skumcase',
+        alias: ["/portfolio/skumcase"],
         component: SkumCase
     },
     {
         name: 'AboutView',
         path: '/about-view',
+        alias: ["/portfolio/about-view"],
         component: AboutView
     },
     {
         name: 'ContactView',
         path: '/contact-view',
+        alias: ["/portfolio/contact-view"],
         component: ContactView
     },
     
