@@ -68,7 +68,7 @@
       </div>
       <div class="col-12 col-md-8">
         <p style="font-weight: 700;" class="mt-5">Competitor Analysis</p>
-        <p class="about-projext-txt">To get a better understanding of the competitor and the beer market, I conducted <strong>analsyse</strong> on 
+        <p class="about-projext-txt">To get a better understanding of the competitor and the beer market, I conducted an <strong>analysis</strong> on 
                   one of the most popular beer/drink application on the market, and found that they provide a lot of information about beer and
                   that they operate <strong>worldwide</strong>. This can be <strong>overwhelming</strong> for some users, especially those living in Norway.</p>
         <p class="about-projext-txt">The analysis also provided us inspiration to some important <strong>key</strong> functions we should implement in our solution.
